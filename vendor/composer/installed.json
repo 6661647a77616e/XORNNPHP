@@ -1,0 +1,45 @@
+{
+    "packages": [
+        {
+            "name": "dragonzap/neuralnetwork",
+            "version": "v1.1.0",
+            "version_normalized": "1.1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dragonzapeducation/NeuralNetwork.git",
+                "reference": "05df65108f74315baa79b9d49644502c2987ffdf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dragonzapeducation/NeuralNetwork/zipball/05df65108f74315baa79b9d49644502c2987ffdf",
+                "reference": "05df65108f74315baa79b9d49644502c2987ffdf",
+                "shasum": ""
+            },
+            "time": "2024-06-01T18:02:23+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Dragonzap\\": "src/Dragonzap/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Dragon Zap Publishing"
+                }
+            ],
+            "description": "Used for building neural networks in PHP",
+            "support": {
+                "issues": "https://github.com/dragonzapeducation/NeuralNetwork/issues",
+                "source": "https://github.com/dragonzapeducation/NeuralNetwork/tree/v1.1.0"
+            },
+            "install-path": "../dragonzap/neuralnetwork"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

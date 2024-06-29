@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dragonzap/neuralnetwork": "^1.0"
+    }
+}
